@@ -1,6 +1,6 @@
-* 🌍  I'm based in Ljubljana, Slovenia
+* 🌍  Based in Ljubljana, Slovenia
 * ✉️  You can contact me at [fcholakoski@proton.me](mailto:fcholakoski@proton.me)
-* 🧠  I'm learning Rust and Smart contracts
+* 🧠 Currently learning Rust and smart contracts
 
 ### Skills
 
